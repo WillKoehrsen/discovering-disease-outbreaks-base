@@ -1,0 +1,16 @@
+name: discovering-disease-outbreaks
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pandas=0.25.0
+  - numpy=1.16.0
+  - scikit-learn=0.20.3
+  - basemap=1.2.1
+  - matplotlib=3.1.1
+  - Unidecode=1.1.1
+  - pip=19.2.3
+  - jupyter
+  - nbconvert
+  - pip:
+      - geonamescache
