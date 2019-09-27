@@ -1,7 +1,8 @@
-# discovering-disease-outbreaks-base
+# Discovering Disease Outbreaks Starting Repository
+
 Starter repository for Manning PBC: Discovering and Tracking Disease Outbreaks with Data Science and Python
 
-# Setup
+## Setup
 
 This project requires Python 3.7 which can be installed from the [official Python page](https://www.python.org/downloads/) or 
 with a package manager such as [anaconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html?highlight=conda#installation).
