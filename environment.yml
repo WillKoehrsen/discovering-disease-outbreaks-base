@@ -1,4 +1,4 @@
-name: discovering-disease-outbreaks
+name: outbreak
 channels:
   - conda-forge
 dependencies:
