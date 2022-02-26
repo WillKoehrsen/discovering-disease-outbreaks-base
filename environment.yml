@@ -15,6 +15,9 @@ dependencies:
   - Pillow
   - jupyterlab
   - nbconvert
+  - jupyterlab-git
+  - jupyterlab_miami_nights 
   - pip:
       - geonamescache
       - jupyterlab_tabnine
+      - jupyterlab_github
