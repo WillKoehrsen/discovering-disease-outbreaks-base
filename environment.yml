@@ -13,8 +13,8 @@ dependencies:
   - Unidecode
   - pip
   - Pillow
-  - jupyter
-  - jupyter_contrib_nbextensions
+  - jupyterlab
   - nbconvert
   - pip:
       - geonamescache
+      - jupyterlab_tabnine
